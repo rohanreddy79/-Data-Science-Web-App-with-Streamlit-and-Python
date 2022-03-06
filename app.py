@@ -6,7 +6,7 @@ import plotly.express as px
 
 
 DATA_URL = (
-    "C:/Users/Atharva/Desktop/Project/project 2/streamlit-nyc/Motor_Vehicle_Collisions_-_Crashes.csv"
+    "C:/Users/Rohan/Desktop/Project/project 2/streamlit-nyc/Motor_Vehicle_Collisions_-_Crashes.csv"
 )
 
 st.title("Motor Vehicle Collisions in New York City")
